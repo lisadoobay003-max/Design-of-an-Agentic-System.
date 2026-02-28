@@ -1,1 +1,1 @@
-# Design-of-a-Agentic-System.
+# Design-of-an-Agentic-System
